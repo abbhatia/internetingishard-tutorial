@@ -8,5 +8,4 @@ Like <br/>, <hr/> should carry meaning—don’t use it when you just want to di
 
 Another way to think about the <hr/> element is that it carries less significance than the separation created by a new heading element, but more significance than a new paragraph.
 
-![Chapter 2 - basic web pages]
-(https://internetingishard.com/html-and-css/basic-web-pages/basic-web-pages-f786d5.png)
+![Chapter 2 - basic web pages](https://internetingishard.com/html-and-css/basic-web-pages/basic-web-pages-f786d5.png)
